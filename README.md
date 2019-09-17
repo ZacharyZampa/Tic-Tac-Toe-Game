@@ -3,8 +3,8 @@ A Tic Tac Toe game that generates boards using recursion.
 The player can either play against an AI or another player.  
   -With an AI-  
     The player plays against an AI that will always win or tie.
-    In the first match, the player goes first.
-   -With a Player-  
+    In the first match, the player goes first.  
+   -With a Player-    
     Currently only local machine multiplayer is supported.
     Normal Tic-Tac-Toe Mechanics are utilized
 
