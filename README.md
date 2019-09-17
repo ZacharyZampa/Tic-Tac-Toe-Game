@@ -12,7 +12,15 @@ The player can either play against an AI or another player.
 If the player wishes to play another game after the game has ended,
 they simply must type 'y' when prompted.
 
+To Run the TicTacToe.jar
+  Go to terminal / Command Line and run java -jar [file and filepath]
+  Example: Windows and Powershell
+     1. Open Powershell
+     2. Enter file path and filename (java -jar CodingProjects\TicTacToe_Multiplayer\TicTacToe.jar)
+     3. Run command and play game
 
+
+acknowledgements
 Uses a dictionary implementation created by:
 Frank M. Carrano
 Timothy M. Henry
