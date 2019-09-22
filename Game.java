@@ -357,4 +357,16 @@ public class Game {
 		return x == (o + 1) || x == o;
 	}
 
+	/**
+	 * Enter where the lan player played; Trust that already validated on LAN End
+	 * @param gameBoard
+	 * @param move
+	 * @param playerPiece
+	 * @return move position
+	 */
+	public static int lanPlayerMove(Board b, int move, char playerPiece) {
+		b.setBoard(playerPiece, move);
+		return move;
+	}
+
 }
