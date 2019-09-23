@@ -16,7 +16,7 @@ To Run the TicTacToe.jar
   Go to terminal / Command Line and run java -jar [file and filepath]  
   Example: Windows and Powershell  
      1. Open Powershell  
-     2. Enter file path and filename (java -jar CodingProjects\TicTacToe_Multiplayer\TicTacToe.jar)  
+     2. Enter file path and filename (java -jar [file and filepath: Example=CodingProjects\TicTacToe_Multiplayer\TicTacToe.jar])  
      3. Run command and play game
         a. If LAN, it is recommended that the Host player begins hosting the game before the 
             joining player attempts joining.
